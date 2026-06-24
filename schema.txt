@@ -4,16 +4,15 @@
       "@type": "WebSite",
       "publisher": {
         "@type": "Organization",
-        "name": "Ankit Verma"
+        "name": "Bhanu Pratap"
       },
-      "name": "Ankit Verma",
-      "url": "https://avcodewizard.github.io/",
-      "image": "https://avcodewizard.github.io/assets/img/Ankit-Verma.jpg",
+      "name": "Bhanu Pratap",
+      "url": "https://er-bhanu-pratap.github.io/",
+      "image": "https://er-bhanu-pratap.github.io/assets/img/Bhanu-Pratap.jpg",
       "sameAs": [
-        "https://www.instagram.com/pixels.queue/",
-        "https://www.linkedin.com/in/ankitvermaonline/",
-        "https://github.com/avcodewizard",
-        "https://avcodewizard.github.io"
+        "https://www.linkedin.com/in/er-bhanu-pratap/",
+        "https://github.com/er-bhanu-pratap",
+        "https://er-bhanu-pratap.github.io"
       ],
       "jobTitle": "Software Engineer",
       "alumniOf": {
